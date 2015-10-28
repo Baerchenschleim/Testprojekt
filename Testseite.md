@@ -3,4 +3,4 @@
 <html>
 <head>Facebump</head>
 <title>Baumansten</title>
-<a href="index.htm">"readme"</a>
+<a href="readme.htm">readme</a>
